@@ -1,0 +1,23 @@
+{
+  "name": "@npmfhernand/parallelpythonnodes",
+  "version": "1.0.0",
+  "description": "Prototype for parallel python processing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhernand/parallelpythonnodes.git"
+  },
+  "keywords": [
+    "parallel",
+    "python"
+  ],
+  "author": "Felipe Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fhernand/parallelpythonnodes/issues"
+  },
+  "homepage": "https://github.com/fhernand/parallelpythonnodes#readme"
+}
